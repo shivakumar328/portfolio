@@ -1,2 +1,5 @@
-# portfolio
-Personal portfolio website — Shivakumar S | Cybersecurity Enthusiast &amp; Developer
+# Shivakumar S — Portfolio
+
+Glassmorphism portfolio website.
+
+**Live:** https://shivakumar328.github.io/portfolio/
